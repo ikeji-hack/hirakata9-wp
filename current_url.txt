@@ -1,1 +1,1 @@
-https://presentation-costa-centuries-appropriate.trycloudflare.com
+https://api.trycloudflare.com
