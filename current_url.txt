@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://comfortable-mirrors-verified-apps.trycloudflare.com
